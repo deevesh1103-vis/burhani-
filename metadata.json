@@ -1,0 +1,6 @@
+{
+  "name": "Burhani Hardware Mart",
+  "description": "Clean modern website for Burhani Hardware Mart in Coimbatore featuring minimalist catalog in INR (₹), AI plumbing & hardware chatbot assistant, secure payment gateway, mobile checkout, inventory management, and automated email notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
